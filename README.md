@@ -99,17 +99,10 @@
 
 ## My Github Stats
 
-<p align="center">
-  <a href="https://github.com/HarikNguyen">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarikNguyen&theme=radical" alt="Harik Nguyen's GitHub Contribution"/>
-  </a>
-</p>
+![Harik Nguyen's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarikNguyen&theme=radical)
 
-<div style="display:flex; align-items:flex-start;">
-    <a href="https://github.com/HarikNguyen"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=HarikNguyen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <div style="width:10px"></div>
-    <a href="https://github.com/HarikNguyen"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HarikNguyen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px""/></a>
-</div>
-</br>
+![Harik Nguyen's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=HarikNguyen&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&custom_title=Harik%20Nguyen's%20Github%20Stats)
+
+![Harik Nguyen's Top Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HarikNguyen&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&custom_title=Harik%20Nguyen's%20Top%20Languages)
 
 ![Harik Nguyen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikNguyen&custom_title=Harik%20Nguyen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
